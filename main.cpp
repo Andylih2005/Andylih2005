@@ -1,6 +1,9 @@
 ﻿#include <iostream>
-
-int main() {
-	std::cout << "Hello, Docker!" << std::endl;
+using namespace std
+int main() 
+{
+	int a,b;
+	cin>>a>>b;
+	cout<<b;
 	return 0;
 }

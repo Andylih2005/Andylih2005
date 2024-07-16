@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout << "book insert scuess 100%" << endl << "book delete scuess 100%";
+	cout << "book insert scuess 100%" << endl << "book delete scuess 100%"<<endl<<"book changed scuess 100%";
 	return 0;
 }
